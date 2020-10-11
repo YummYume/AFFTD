@@ -1,0 +1,3 @@
+displayName = Arknights Fight For The Dawn
+author = Yum
+version = 0.1
