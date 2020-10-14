@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\givso\\OneDrive\\Documents\\My games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj": {}
+    "D:\\My Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\givso\\OneDrive\\Documents\\My games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj": {
+    "D:\\My Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\givso\\OneDrive\\Documents\\My games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj",
+        "projectUniqueName": "D:\\My Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj",
         "projectName": "AFFTD",
-        "projectPath": "C:\\Users\\givso\\OneDrive\\Documents\\My games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj",
-        "packagesPath": "C:\\Users\\givso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\givso\\OneDrive\\Documents\\My games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\obj\\",
+        "projectPath": "D:\\My Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\AFFTD.csproj",
+        "packagesPath": "C:\\Users\\Yume\\.nuget\\packages\\",
+        "outputPath": "D:\\My Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\AFFTD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\givso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yume\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,7 +46,7 @@
               "version": "[0.1.*, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

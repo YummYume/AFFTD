@@ -24,7 +24,7 @@ namespace AFFTD.Items
 		{
 			item.damage = 18;
 			item.magic = true;
-			item.mana = 14;
+			item.mana = 5;
 			item.width = 40;
 			item.height = 40;
 			item.useTime = 30;
