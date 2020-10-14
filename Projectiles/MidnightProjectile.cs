@@ -18,7 +18,7 @@ namespace AFFTD.Projectiles
             projectile.Name = "Midnight's Ranged Attack";
             projectile.width = 20;
             projectile.height = 20;
-            projectile.damage = 22;
+            projectile.damage = 25;
             projectile.knockBack = 0; //we give a bit more damage than the sword itself, but no knockback
             projectile.penetrate = 30;
             projectile.timeLeft = 10000;
@@ -28,10 +28,6 @@ namespace AFFTD.Projectiles
             projectile.melee = true;
             projectile.tileCollide = true;
             projectile.ignoreWater = true;
-        }
-        public override void AI()
-        {
-            //projectile.rotation = (float)Math.Atan2((double)projectile.velocity.Y, (double)projectile.velocity.X) + 1.57f;
         }
     }
 }
